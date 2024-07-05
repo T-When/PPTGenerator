@@ -1,0 +1,6 @@
+streamlit==1.11.1
+python-pptx==0.6.21
+vertexai
+google-cloud==0.34.0
+google-auth==2.9.0
+google-cloud-aiplatform
